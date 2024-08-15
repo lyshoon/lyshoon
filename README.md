@@ -13,6 +13,5 @@ Hi, I'm Shoon! 🦋<br>🎓 Undergraduate CS Student at Korea University, South 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lyshoon&icon=9&color=10)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=lyshoon&label=Follow%20your%20dream&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
