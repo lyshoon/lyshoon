@@ -11,6 +11,7 @@ Hi, I'm Shoon! 🦋<br>🎓 Undergraduate CS Student at Korea University, South 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyshoon&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![shoon](https://github.com/lyshoon/lyshoon/blob/main/img/ss.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lyshoon&label=Follow%20your%20dream&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
