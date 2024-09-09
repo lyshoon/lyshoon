@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Shoon! 🦋  
-🎓 Undergraduate CS Student at Korea University, South Korea 🐯  
+🎓 Undergraduate CSE Student at Korea University, South Korea 🐯  
 🎶 Passionate about music and coding  
 🔍 Currently focusing on improving my skills in Computer Vision
 
