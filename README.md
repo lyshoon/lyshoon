@@ -2,16 +2,7 @@
 Hi, I'm Shoon! 🦋  
 🎓 Undergraduate CSE Student at Korea University, South Korea 🐯  
 
-## 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyshoon&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
-    </td>
-    
-  </tr>
-</table>  
 
 ## 🌐 Socials:
 
